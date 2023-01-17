@@ -1,0 +1,15 @@
+{
+  "name": "mmenu",
+  "homepage": "https://github.com/BeSite/jQuery.mmenu",
+  "version": "9.3.0",
+  "_release": "9.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v9.3.0",
+    "commit": "17bea9b633b3ae55b80b12a672c1f20215296c5c"
+  },
+  "_source": "https://github.com/BeSite/jQuery.mmenu.git",
+  "_target": "^9.3.0",
+  "_originalSource": "mmenu",
+  "_direct": true
+}
